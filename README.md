@@ -9,6 +9,6 @@
    * Acompaña una presentación con lo explorado en precios y comparación con Encarnación Paraguay.
    
    ### Se adjunta el Manual de Protocolo
-   [[Infome Precios comparados y Recomendaciones]( AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
+   [[Infome Precios comparados y Recomendaciones](https://docs.google.com/document/d/1WlRrUjZA8dn_15A9Uafoxkry-5ZFA1yMyXcyFmEqFSA/edit?usp=sharing  )]
    ### Presentaciones armadas
-   [[Presentaciones sobre Precios comparados y Recomendaciones]( AQUI VA LA DIRECCION PRESENTACIONES REALIZADAS)]
+   [[Presentaciones sobre Precios comparados y Recomendaciones]( https://gamma.app/docs/Navidad-en-Posadas-vs-Encarnacion-Tu-Guia-de-Compras-Inteligente-7be10hvqcgp6cfh)]
